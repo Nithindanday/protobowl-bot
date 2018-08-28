@@ -65,7 +65,7 @@ function guess() {
 
 			"query"			: encodeURI(question),
 			"search_type"	: "Question",
-			"difficulty"	: "middle_school",
+			"difficulty"	: "regular_high_school",
 			"question_type"	: "Tossup",
 			"limit"			: "false",
 			"download"		: "json"
